@@ -23,5 +23,5 @@ Actualmente, estoy ampliando mis habilidades a través del **Bootcamp de Data An
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** [Tu enlace a LinkedIn aquí]
+* **LinkedIn:** https://www.linkedin.com/in/edgar-manuel-navarro-ramón
 * **Email:** edgar.navarro.emnr@gmail.com
